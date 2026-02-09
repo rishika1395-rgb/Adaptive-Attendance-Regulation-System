@@ -1,12 +1,12 @@
 # Adaptive Attendance Regulation System
 
-A policy-compliant, data-driven attendance governance system that adjusts student attendance based on academic performance (SGPA/CGPA).
+A policy-compliant, data-driven attendance system that adjusts student attendance based on academic performance (SGPA/CGPA).
 
 ## Tech Stack
-- C++ → Core attendance rule engine
-- Python → Backend logic & database integration
-- SQLite → Data layer
-- GitHub → Version control
+- C++ - Core attendance rule engine
+- Python - Backend logic & database integration
+- SQLite - Data layer
+- GitHub - Version control
 
 ## Features
 - SGPA-based attendance reduction
